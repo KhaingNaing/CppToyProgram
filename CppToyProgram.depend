@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1667261452 source:c:\users\khain\desktop\cpptoyprogram\main.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	<cstdint>
+	<cstring>
+	"cow.h"
+
+1667260368 source:c:\users\khain\desktop\cpptoyprogram\cow.h
+	<string>
+
+1667260368 c:\users\khain\desktop\cpptoyprogram\cow.h
+	<string>
+
+1667260639 source:c:\users\khain\desktop\cpptoyprogram\cow.cpp
+	"cow.h"
+
+1667262572 source:c:\users\khain\desktop\cpptoyprogram\stlvector.cpp
+	<string>
+	<iostream>
+	"cow.h"
+	<vector>
+
+1667266113 source:c:\users\khain\desktop\cpptoyprogram\challenge2.cpp
+	"record.h"
+	<iostream>
+	<string>
+	<typeinfo>
+	<cstdint>
+	<cstring>
+	<vector>
+
+1667266121 c:\users\khain\desktop\cpptoyprogram\student.h
+
+1667265872 source:c:\users\khain\desktop\cpptoyprogram\student.h
+	<string>
+
+1667265946 source:c:\users\khain\desktop\cpptoyprogram\student.cpp
+	"student.h"
+
+1667864747 c:\users\khain\desktop\cpptoyprogram\record.h
+	<string>
+	<vector>
+
+1667864994 source:c:\users\khain\desktop\cpptoyprogram\record.cpp
+	"record.h"
+	<iostream>
+
+1667864747 source:c:\users\khain\desktop\cpptoyprogram\record.h
+	<string>
+	<vector>
+
+1667429313 source:c:\users\khain\desktop\cpptoyprogram\functionparameters.cpp
+	<iostream>
+
+1667348926 source:c:\users\khain\desktop\cpptoyprogram\challenge3.cpp
+	"record.h"
+	<iostream>
+	<string>
+	<vector>
+
+1667864715 source:c:\users\khain\desktop\cpptoyprogram\challenge4.cpp
+	"record.h"
+	<iostream>
+	<string>
+	<vector>
+
